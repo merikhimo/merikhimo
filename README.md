@@ -1,4 +1,5 @@
 Innopolis University BS1 student
+merrikhimo@gmail.com
 <!--
 **merikhimo/merikhimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
