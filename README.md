@@ -1,4 +1,4 @@
-Innopolis University BS1 student
+Innopolis University BS24 student
 
 merrikhimo@gmail.com
 <!--
