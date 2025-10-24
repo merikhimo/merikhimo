@@ -1,6 +1,6 @@
-##It is not my main account - only for study
-Innopolis University BS24 student
-you can contact me here:
+## It is not my main account - only for study
+Innopolis University BS24 student\
+you can contact me here:\
 merrikhimo@gmail.com
 <!--
 **merikhimo/merikhimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
